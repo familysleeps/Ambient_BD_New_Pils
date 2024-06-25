@@ -1,7 +1,7 @@
 ---
 output: html_document
 ---
-# this is a change
+
 ```{r logo,fig.align='center', echo=FALSE}
 knitr::include_graphics("images/logo_questionnaire_hi.png")
 ```
