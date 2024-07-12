@@ -2,7 +2,7 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+### changes
 
 
 ```{r logo, echo=FALSE}
@@ -11,7 +11,15 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
+<<<<<<< HEAD
 ##  Sample Consent Form for Parents or Caregiver of a Non-Autistic Child Seán Farrell was here
+=======
+<<<<<<< HEAD
+##  Sample Consent Form for Parents or Caregiver of a Non-Autistic Child Seán Farrell made a change 
+=======
+##  Sample Consent Form for Parents or Caregiver of a Non-Autistic Child this is a change 
+>>>>>>> d34ad589b93ae0ac0ff8876d9e2f77c7fea6a0a3
+>>>>>>> 8cbdd32af9a238ca6bef448403bc7ef3a9fb7bf2
 
 &nbsp;  
 
