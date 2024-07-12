@@ -11,7 +11,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
-##  Sample Consent Form for Parents or Caregiver of a Non-Autistic Child  
+##  Sample Consent Form for Parents or Caregiver of a Non-Autistic Child Seán Farrell made a change 
 
 &nbsp;  
 
