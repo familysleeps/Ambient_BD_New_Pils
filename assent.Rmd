@@ -7,7 +7,6 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 ```
 
 
-This is a big change
 
 <br><br> <!-- Add two line breaks -->
 
@@ -19,7 +18,6 @@ If you agree to take part in this research study, please read, tick and sign bel
 ```{r page1,fig.align='center', fig.width=10,echo=FALSE,out.width="87%"}
 knitr::include_graphics("images/assent1.png")
 ```
-
 
 
 ```{r page2,fig.align='center', fig.width=20,echo=FALSE, out.width="150%"}
