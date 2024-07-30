@@ -11,7 +11,7 @@ This is a big change
 
 <br><br> <!-- Add two line breaks -->
 
-##  Assent Form for Children This is a change
+##  Assent Form for Children
 &nbsp;
 If you agree to take part in this research study, please read, tick and sign below.
 &nbsp;
